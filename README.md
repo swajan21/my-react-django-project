@@ -23,7 +23,6 @@
 - 🔐 **JWT Authentication**
 - 🛍️ **Product Listings** with filters & search
 - 🛒 **Shopping Cart** and Wishlist
-- 💳 **Payment Gateway** (SSLCommerz / PayPal)
 - 📦 **Order Management**
 - 📱 **Mobile Responsive UI**
 - 🔊 **Sound, Confetti & Toasts for UX**
