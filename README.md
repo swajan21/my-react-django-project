@@ -26,6 +26,7 @@
 | Home Page | 
 
 ![Home Page](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Home%20Page.png) 
+| Darkmood | 
 ![Darkmood](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Home%20page%20darkmood.png) 
 
 | Admin | 
