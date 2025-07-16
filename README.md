@@ -9,14 +9,6 @@
 
 ---
 
-## 🖼️ Project Preview
-
-| Home Page | Product Page | Checkout Page |
-|-----------|--------------|---------------|
-| ![](screenshots/home.png) | ![](screenshots/product.png) | ![](screenshots/checkout.png) |
-
----
-
 ## 🚀 Key Features
 
 - ✅ **User Roles** (Customer / Vendor)
@@ -27,6 +19,63 @@
 - 📱 **Mobile Responsive UI**
 - 🔊 **Sound, Confetti & Toasts for UX**
 
+---
+
+## 🖼️ Project Preview
+
+| Home Page | 
+
+![Home Page](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Home%20Page.png) 
+![Darkmood](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Home%20page%20darkmood.png) 
+
+| Admin | 
+
+![Admin](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Adminsite.png) 
+
+| API | 
+
+![API](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Api%20Root.png) 
+
+| Categories | 
+
+![Categories](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Categories.png) 
+
+| Fashion | 
+
+![Fashion](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Fashion.png) 
+
+| Login | 
+
+![Login](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Login%20Page.png) 
+
+| Product_Details | 
+
+![Product_Details](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Product_Details.png) 
+
+| Profile | 
+
+![Profile](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Profile.png) 
+
+| Registar | 
+
+![Registar](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Registar.png) 
+
+| Shopping Cart | 
+
+![Shopping Cart](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Shopping%20Cart.png) 
+
+| Top_Products | 
+
+![Top_Products](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Top_Products.png) 
+
+| WishList | 
+
+![WishList](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/WishList.png) 
+
+| Banner | 
+
+![Banner](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/banner.png) 
+  
 ---
 
 ## 🧰 Tech Stack
@@ -43,21 +92,7 @@
 
 ## 🏗️ Project Structure
 
-my-react-django-project/
-├── backend/
-│ ├── ecommerce/ # Django app
-│ └── media/ # Uploaded product/media files
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│ └── public/
-│
-└── README.md
-
+![](https://github.com/swajan21/my-react-django-project/blob/main/Screenshot/Project%20Structure.png)
 ---
 
 ## ⚙️ Local Setup
